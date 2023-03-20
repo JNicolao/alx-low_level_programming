@@ -7,4 +7,5 @@ Still figuring out how to code projects in C
 #2_If_Else
 #3_Functions
 #4_Debugging
-#5_nestedloops
+#5_Nested_Loops
+#6_Pointers_Arrays_Functions
