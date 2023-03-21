@@ -9,3 +9,4 @@ Still figuring out how to code projects in C
 #4_Debugging
 #5_Nested_Loops
 #6_Pointers_Arrays_Functions
+#7_Recursion
