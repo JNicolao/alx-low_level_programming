@@ -12,3 +12,4 @@ Still figuring out how to code projects in C
 #7_Recursion
 #8_Static_libraries
 #9_Arguments
+#10_Memory_Allocations
