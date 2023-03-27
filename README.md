@@ -15,3 +15,4 @@ Still figuring out how to code projects in C
 #10_Memory_Allocations
 #11_Prepocessor
 #12_Structures
+#13_Pointers
