@@ -18,3 +18,4 @@ Still figuring out how to code projects in C
 #13_Pointers and functions
 #14_Variadic_Functions
 #15_Singly_Linked_Lists
+#16_Bit_Manipulation
