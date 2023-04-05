@@ -21,3 +21,4 @@ C is fun!
 #17_File_IO
 #18_Doubly_Linked_Lists
 #19_Dynamic_Libraries
+#20_Hash_tables
