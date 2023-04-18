@@ -18,7 +18,7 @@ C is fun!
 #13_Pointers and functions
 #14_Variadic_Functions
 #15_Singly_Linked_Lists
-#16_Bit_Manipulation
+
 
 
 
