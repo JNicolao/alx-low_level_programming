@@ -17,7 +17,7 @@ C is fun!
 #12_Structures
 #13_Pointers and functions
 #14_Variadic_Functions
-#15_Singly_Linked_Lists
+
 
 
 
