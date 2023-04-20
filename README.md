@@ -16,7 +16,7 @@ C is fun!
 #11_Prepocessor
 #12_Structures
 #13_Pointers and functions
-#14_Variadic_Functions
+
 
 
 
