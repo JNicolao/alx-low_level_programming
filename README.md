@@ -8,7 +8,7 @@ C is fun!
 #3_Functions
 #4_Debugging
 #5_Nested_Loops
-#6_Pointers_Arrays_Functions
+
 
 
 
