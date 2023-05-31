@@ -1,9 +1,34 @@
 C language projects on ALX!
 C is fun!
+
 #Understanding_C
 ##Readme
+
 #0_Hello_World
-#1_vARIABLES
+#1_Variables
+#2_if_else
+#3_functions
+#4_nested_loops
+#5_debugging
+#6_pointers
+#7_arrays
+#8_strings
+#9_recursion
+#10_static_libraries
+#11_arguments
+#12_memory_allocation
+#13_prepocessor
+#14_structures
+#15_type_def
+#16_variadic_functions
+#17_singly_linked_lists
+#18_bit_manipulation
+#19_file_io
+#20_doubly_linked_lists
+#21_dynamic_libraries
+#22_hash_tables
+#23_makefiles
+#24_search_algorithms
 
 
 
