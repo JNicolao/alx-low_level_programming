@@ -28,7 +28,7 @@ C is fun!
 #21_dynamic_libraries
 #22_hash_tables
 #23_makefiles
-#24_search_algorithms
+
 
 
 
