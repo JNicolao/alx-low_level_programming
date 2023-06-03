@@ -27,7 +27,7 @@ C is fun!
 #20_doubly_linked_lists
 #21_dynamic_libraries
 #22_hash_tables
-#23_makefiles
+
 
 
 
