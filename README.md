@@ -26,7 +26,7 @@ C is fun!
 #19_file_io
 #20_doubly_linked_lists
 #21_dynamic_libraries
-#22_hash_tables
+
 
 
 
