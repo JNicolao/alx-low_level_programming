@@ -25,7 +25,7 @@ C is fun!
 #18_bit_manipulation
 #19_file_io
 #20_doubly_linked_lists
-#21_dynamic_libraries
+
 
 
 
