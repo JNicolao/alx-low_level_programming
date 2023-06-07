@@ -24,7 +24,6 @@ C is fun!
 #17_singly_linked_lists
 #18_bit_manipulation
 #19_file_io
-#20_doubly_linked_lists
 
 
 
