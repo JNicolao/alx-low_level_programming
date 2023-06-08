@@ -23,7 +23,7 @@ C is fun!
 #16_variadic_functions
 #17_singly_linked_lists
 #18_bit_manipulation
-#19_file_io
+
 
 
 
