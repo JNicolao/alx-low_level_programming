@@ -21,7 +21,7 @@ C is fun!
 #14_structures
 #15_type_def
 #16_variadic_functions
-#17_singly_linked_lists
+
 
 
 
