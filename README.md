@@ -19,7 +19,7 @@ C is fun!
 #12_memory_allocation
 #13_prepocessor
 #14_structures
-#15_type_def
+
 #16_variadic_functions
 
 
