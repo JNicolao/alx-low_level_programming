@@ -20,8 +20,6 @@ C is fun!
 #13_prepocessor
 #14_structures
 
-#16_variadic_functions
-
 
 
 
