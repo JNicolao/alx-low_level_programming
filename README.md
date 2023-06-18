@@ -17,7 +17,7 @@ C is fun!
 #10_static_libraries
 #11_arguments
 #12_memory_allocation
-#13_prepocessor
+
 
 
 
