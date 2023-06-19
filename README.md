@@ -16,7 +16,7 @@ C is fun!
 #9_recursion
 #10_static_libraries
 #11_arguments
-#12_memory_allocation
+
 
 
 
