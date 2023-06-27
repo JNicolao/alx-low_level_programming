@@ -1,4 +1,4 @@
-? 
+
 C language projects on ALX!
 C is fun!
 
@@ -15,7 +15,7 @@ C is fun!
 #7_arrays
 #8_strings
 #9_recursion
-#10_static_libraries
+
 
 
 
