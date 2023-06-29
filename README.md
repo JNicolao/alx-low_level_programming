@@ -13,7 +13,7 @@ C is fun!
 #5_debugging
 #6_pointers
 #7_arrays
-#8_strings
+
 
 
 
