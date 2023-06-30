@@ -12,7 +12,7 @@ C is fun!
 #4_nested_loops
 #5_debugging
 #6_pointers
-#7_arrays
+
 
 
 
