@@ -11,7 +11,7 @@ C is fun!
 #3_functions
 #4_nested_loops
 #5_debugging
-#6_pointers
+
 
 
 
