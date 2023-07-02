@@ -10,7 +10,7 @@ C is fun!
 #2_if_else
 #3_functions
 #4_nested_loops
-#5_debugging
+
 
 
 
