@@ -8,7 +8,7 @@ C is fun!
 #nestedloops
 #Pointers
 #arrays
-#strings
+
 
 
 
