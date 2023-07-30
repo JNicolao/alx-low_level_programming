@@ -6,7 +6,7 @@ C is fun!
 #Functions
 #debugging
 #nestedloops
-#Pointers
+
 
 
 
