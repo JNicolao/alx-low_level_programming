@@ -14,7 +14,7 @@ C is fun!
 #9_Arguments 
 #10_Memory_Allocations 
 #11_Prepocessor 
-#12_Structures 
+
 
 
 
