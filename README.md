@@ -6,7 +6,7 @@ C is fun!
 #1_Variables 
 #2_If_Else 
 #3_Functions 
-#4_Debugging 
+
 
 
 
